@@ -1,0 +1,12 @@
+[
+  exit: "low",
+  format: "txt",
+  ignore: ["Config.HTTPS"],
+  ignore_files: [""],
+  out: "",
+  private: false,
+  router: "lib/genx_web/router.ex",
+  skip: false,
+  threshold: "low",
+  verbose: true
+]
